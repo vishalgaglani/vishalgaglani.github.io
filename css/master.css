@@ -1,0 +1,19 @@
+.little-box {
+	margin-top: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 200px;
+	font-family: Roboto, sans-serif;
+	background: black;
+
+}
+
+body {
+	background: black;
+	font-family: Roboto;
+}
+
+.quick-nav {
+	display: inline-block;
+	list-style: none;
+}
